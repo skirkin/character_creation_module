@@ -1,6 +1,4 @@
 from random import randint
-import inspect
-from graphic_arts.start_game_banner import run_screensaver
 
 
 DEFAULT_ATTACK = 5
